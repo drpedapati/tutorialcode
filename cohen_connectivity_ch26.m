@@ -9,9 +9,6 @@
 
 %% Figure 26.1
 
-% load sample EEG dataset
-%load sampleEEGdata
-
 my_data_folder = "tutorialcode";
 
 % names of the channels you want to synchronize
