@@ -1,4 +1,5 @@
 % Load the EEGlab set file
+mypath = "tutorialcode";
 EEG = pop_loadset('your_file.set');
 
 % Define the spectrogram parameters
